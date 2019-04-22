@@ -1,0 +1,1 @@
+{"virtualbox":{"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/r.sugikawa/Desktop/sample","disabled":false,"__vagrantfile":true},"/var/www/":{"guestpath":"/var/www","hostpath":"/Users/r.sugikawa/Desktop/sample/sync","disabled":false,"__vagrantfile":true}}}
